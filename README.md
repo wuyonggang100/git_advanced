@@ -1,2 +1,2 @@
 # git_advanced
-git 高级用法总结
+git 进阶
